@@ -18,6 +18,8 @@ public class APMCodingTest {
 					k = s.nextInt();
 				}
 			}
+			
+			
 			DistributionNumbers dn = new DistributionNumbers();
 			int[][] arr = dn.getBox(n, k);
 
